@@ -11,5 +11,6 @@ This project aims to predict car prices using linear regression model. By explor
 4) Log Transformation: Apply logarithmic transformation to the target variable to improve model accuracy and handl skewed data. 
 
 ## Requirements
-Python Version: 3.11.9 
+Python Version: 3.11.9  
+
 Libraries: pandas=2.2.2 numpy=2.0.0 matplotlib=3.8.4 seaborn=0.13.2 statsmodels=0.14.2 scipy=1.13.1 plotly=5.22.0 scikit-learn=1.5.0

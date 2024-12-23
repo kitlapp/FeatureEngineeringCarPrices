@@ -1,5 +1,5 @@
-# Improving a Multiple Linear Regression Model by Applying Feature Engineering
-It contains an extensive application of feature engineering (feature selection and logarithmic transformations) to identify the most useful features of an already existed multiple linear regression (MLR) model. The goal of the project is to enhance model's generalization indirectly, through feature engineering, without the use of machine learning techniques. Ultimately, a newly-created, simpler and capable model is created with an adjusted R-Square equal to 0.7963 keeping only 10 features despite having created dummies for all categorical variables.
+# Improving a Multiple Linear Regression Model through Feature Engineering
+It contains the application of feature engineering techniques, specifically feature selection and logarithmic transformations, to improve an existing multiple linear regression (MLR) model. The primary goal is to enhance the model's generalization capabilities by improving data quality without using additional machine learning algorithms. As a result, a simplified but effective model was created with an adjusted R² of 0.7963, using only 10 features despite generating dummy variables for all categorical features.
 
 ## FILES INCLUDED:
 1. Data Files X 1:
